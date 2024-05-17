@@ -1,5 +1,5 @@
 #Change the execution policy for the current PowerShell session
-Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+#Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 # Path to the wallpaper file
 $wallpaperPath = "C:\Intel\Wallpaper.jpg"
